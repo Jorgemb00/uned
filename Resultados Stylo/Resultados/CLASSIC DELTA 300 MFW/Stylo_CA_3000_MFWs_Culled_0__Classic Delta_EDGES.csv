@@ -1,0 +1,223 @@
+Source,Target,Weight,Type
+Anonimo_1,Anonimo_2,171,undirected
+Anonimo_1,Cañete_odasyotrascomposiciones 19.39.53,24,undirected
+Anonimo_1,Cañete_romancesyepistolas 19.39.45,27,undirected
+Anonimo_1,Cañete_todoslossonetos ,66,undirected
+Anonimo_1,Capitan_prensa,24,undirected
+Anonimo_1,Capitan_sonetos,17,undirected
+Anonimo_1,Forner_romance 19.41.23 19.41.33,76,undirected
+Anonimo_1,Forner_silvayepistola 19.41.39,38,undirected
+Anonimo_1,Forner_sonetosyotros,30,undirected
+Anonimo_1,Lista_epigrameidilios,31,undirected
+Anonimo_1,Lista_romances,29,undirected
+Anonimo_1,Lista_todoslossonetos,25,undirected
+Anonimo_1,MelendezValdes_odas ,13,undirected
+Anonimo_1,MelendezValdes_romances,11,undirected
+Anonimo_1,MelendezValdes_sonetos ,34,undirected
+Anonimo_1,Reinoso_odas,14,undirected
+Anonimo_1,Reinoso_romanceyotras,13,undirected
+Anonimo_1,Zapata_odas ,11,undirected
+Anonimo_1,Zapata_todoslossonetos 19.41.09,16,undirected
+Anonimo_2,Anonimo_1,171,undirected
+Anonimo_2,Cañete_odasyotrascomposiciones 19.39.53,58,undirected
+Anonimo_2,Cañete_romancesyepistolas 19.39.45,65,undirected
+Anonimo_2,Cañete_todoslossonetos ,95,undirected
+Anonimo_2,Capitan_prensa,62,undirected
+Anonimo_2,Capitan_sonetos,55,undirected
+Anonimo_2,Forner_romance 19.41.23 19.41.33,125,undirected
+Anonimo_2,Forner_silvayepistola 19.41.39,72,undirected
+Anonimo_2,Forner_sonetosyotros,86,undirected
+Anonimo_2,Lista_epigrameidilios,66,undirected
+Anonimo_2,Lista_romances,63,undirected
+Anonimo_2,Lista_todoslossonetos,62,undirected
+Anonimo_2,MelendezValdes_odas ,58,undirected
+Anonimo_2,MelendezValdes_romances,54,undirected
+Anonimo_2,MelendezValdes_sonetos ,66,undirected
+Anonimo_2,Reinoso_odas,52,undirected
+Anonimo_2,Reinoso_romanceyotras,55,undirected
+Anonimo_2,Zapata_odas ,54,undirected
+Anonimo_2,Zapata_todoslossonetos 19.41.09,55,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Anonimo_1,24,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Anonimo_2,58,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Cañete_romancesyepistolas 19.39.45,52,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Cañete_todoslossonetos ,59,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Capitan_prensa,12,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Capitan_sonetos,46,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Lista_epigrameidilios,11,undirected
+Cañete_odasyotrascomposiciones 19.39.53,MelendezValdes_odas ,1,undirected
+Cañete_odasyotrascomposiciones 19.39.53,MelendezValdes_sonetos ,2,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Reinoso_odas,24,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Zapata_odas ,52,undirected
+Cañete_odasyotrascomposiciones 19.39.53,Zapata_todoslossonetos 19.41.09,9,undirected
+Cañete_romancesyepistolas 19.39.45,Anonimo_1,27,undirected
+Cañete_romancesyepistolas 19.39.45,Anonimo_2,65,undirected
+Cañete_romancesyepistolas 19.39.45,Cañete_odasyotrascomposiciones 19.39.53,52,undirected
+Cañete_romancesyepistolas 19.39.45,Cañete_todoslossonetos ,21,undirected
+Cañete_romancesyepistolas 19.39.45,Capitan_prensa,1,undirected
+Cañete_romancesyepistolas 19.39.45,Capitan_sonetos,4,undirected
+Cañete_romancesyepistolas 19.39.45,Forner_romance 19.41.23 19.41.33,9,undirected
+Cañete_romancesyepistolas 19.39.45,MelendezValdes_romances,10,undirected
+Cañete_romancesyepistolas 19.39.45,Zapata_odas ,10,undirected
+Cañete_todoslossonetos ,Anonimo_1,66,undirected
+Cañete_todoslossonetos ,Anonimo_2,95,undirected
+Cañete_todoslossonetos ,Cañete_odasyotrascomposiciones 19.39.53,59,undirected
+Cañete_todoslossonetos ,Cañete_romancesyepistolas 19.39.45,21,undirected
+Cañete_todoslossonetos ,Forner_sonetosyotros,3,undirected
+Cañete_todoslossonetos ,Lista_epigrameidilios,2,undirected
+Cañete_todoslossonetos ,MelendezValdes_romances,1,undirected
+Capitan_prensa,Anonimo_1,24,undirected
+Capitan_prensa,Anonimo_2,62,undirected
+Capitan_prensa,Cañete_odasyotrascomposiciones 19.39.53,12,undirected
+Capitan_prensa,Cañete_romancesyepistolas 19.39.45,1,undirected
+Capitan_prensa,Capitan_sonetos,127,undirected
+Capitan_prensa,MelendezValdes_odas ,13,undirected
+Capitan_prensa,MelendezValdes_romances,2,undirected
+Capitan_prensa,MelendezValdes_sonetos ,3,undirected
+Capitan_prensa,Zapata_odas ,21,undirected
+Capitan_prensa,Zapata_todoslossonetos 19.41.09,3,undirected
+Capitan_sonetos,Anonimo_1,17,undirected
+Capitan_sonetos,Anonimo_2,55,undirected
+Capitan_sonetos,Cañete_odasyotrascomposiciones 19.39.53,46,undirected
+Capitan_sonetos,Cañete_romancesyepistolas 19.39.45,4,undirected
+Capitan_sonetos,Capitan_prensa,127,undirected
+Capitan_sonetos,Forner_romance 19.41.23 19.41.33,30,undirected
+Capitan_sonetos,Forner_silvayepistola 19.41.39,6,undirected
+Capitan_sonetos,Forner_sonetosyotros,18,undirected
+Capitan_sonetos,Lista_epigrameidilios,4,undirected
+Capitan_sonetos,Lista_romances,1,undirected
+Capitan_sonetos,Lista_todoslossonetos,3,undirected
+Capitan_sonetos,MelendezValdes_odas ,7,undirected
+Capitan_sonetos,MelendezValdes_romances,1,undirected
+Capitan_sonetos,Reinoso_odas,11,undirected
+Capitan_sonetos,Reinoso_romanceyotras,41,undirected
+Capitan_sonetos,Zapata_odas ,92,undirected
+Capitan_sonetos,Zapata_todoslossonetos 19.41.09,49,undirected
+Forner_romance 19.41.23 19.41.33,Anonimo_1,76,undirected
+Forner_romance 19.41.23 19.41.33,Anonimo_2,125,undirected
+Forner_romance 19.41.23 19.41.33,Cañete_romancesyepistolas 19.39.45,9,undirected
+Forner_romance 19.41.23 19.41.33,Capitan_sonetos,30,undirected
+Forner_romance 19.41.23 19.41.33,Forner_silvayepistola 19.41.39,66,undirected
+Forner_romance 19.41.23 19.41.33,Forner_sonetosyotros,70,undirected
+Forner_romance 19.41.23 19.41.33,Lista_epigrameidilios,6,undirected
+Forner_romance 19.41.23 19.41.33,Lista_romances,12,undirected
+Forner_romance 19.41.23 19.41.33,Lista_todoslossonetos,4,undirected
+Forner_romance 19.41.23 19.41.33,MelendezValdes_odas ,9,undirected
+Forner_romance 19.41.23 19.41.33,MelendezValdes_romances,17,undirected
+Forner_romance 19.41.23 19.41.33,MelendezValdes_sonetos ,3,undirected
+Forner_silvayepistola 19.41.39,Anonimo_1,38,undirected
+Forner_silvayepistola 19.41.39,Anonimo_2,72,undirected
+Forner_silvayepistola 19.41.39,Capitan_sonetos,6,undirected
+Forner_silvayepistola 19.41.39,Forner_romance 19.41.23 19.41.33,66,undirected
+Forner_silvayepistola 19.41.39,Forner_sonetosyotros,33,undirected
+Forner_silvayepistola 19.41.39,Lista_epigrameidilios,1,undirected
+Forner_silvayepistola 19.41.39,Zapata_odas ,12,undirected
+Forner_sonetosyotros,Anonimo_1,30,undirected
+Forner_sonetosyotros,Anonimo_2,86,undirected
+Forner_sonetosyotros,Cañete_todoslossonetos ,3,undirected
+Forner_sonetosyotros,Capitan_sonetos,18,undirected
+Forner_sonetosyotros,Forner_romance 19.41.23 19.41.33,70,undirected
+Forner_sonetosyotros,Forner_silvayepistola 19.41.39,33,undirected
+Forner_sonetosyotros,Lista_epigrameidilios,3,undirected
+Forner_sonetosyotros,Lista_romances,10,undirected
+Forner_sonetosyotros,Lista_todoslossonetos,15,undirected
+Forner_sonetosyotros,MelendezValdes_odas ,2,undirected
+Forner_sonetosyotros,MelendezValdes_romances,12,undirected
+Forner_sonetosyotros,MelendezValdes_sonetos ,3,undirected
+Forner_sonetosyotros,Zapata_odas ,3,undirected
+Lista_epigrameidilios,Anonimo_1,31,undirected
+Lista_epigrameidilios,Anonimo_2,66,undirected
+Lista_epigrameidilios,Cañete_odasyotrascomposiciones 19.39.53,11,undirected
+Lista_epigrameidilios,Cañete_todoslossonetos ,2,undirected
+Lista_epigrameidilios,Capitan_sonetos,4,undirected
+Lista_epigrameidilios,Forner_romance 19.41.23 19.41.33,6,undirected
+Lista_epigrameidilios,Forner_silvayepistola 19.41.39,1,undirected
+Lista_epigrameidilios,Forner_sonetosyotros,3,undirected
+Lista_epigrameidilios,Lista_romances,12,undirected
+Lista_epigrameidilios,Lista_todoslossonetos,50,undirected
+Lista_epigrameidilios,MelendezValdes_romances,2,undirected
+Lista_epigrameidilios,MelendezValdes_sonetos ,7,undirected
+Lista_epigrameidilios,Zapata_odas ,2,undirected
+Lista_romances,Anonimo_1,29,undirected
+Lista_romances,Anonimo_2,63,undirected
+Lista_romances,Capitan_sonetos,1,undirected
+Lista_romances,Forner_romance 19.41.23 19.41.33,12,undirected
+Lista_romances,Forner_sonetosyotros,10,undirected
+Lista_romances,Lista_epigrameidilios,12,undirected
+Lista_romances,Lista_todoslossonetos,97,undirected
+Lista_romances,MelendezValdes_romances,21,undirected
+Lista_romances,MelendezValdes_sonetos ,20,undirected
+Lista_todoslossonetos,Anonimo_1,25,undirected
+Lista_todoslossonetos,Anonimo_2,62,undirected
+Lista_todoslossonetos,Capitan_sonetos,3,undirected
+Lista_todoslossonetos,Forner_romance 19.41.23 19.41.33,4,undirected
+Lista_todoslossonetos,Forner_sonetosyotros,15,undirected
+Lista_todoslossonetos,Lista_epigrameidilios,50,undirected
+Lista_todoslossonetos,Lista_romances,97,undirected
+Lista_todoslossonetos,MelendezValdes_romances,17,undirected
+Lista_todoslossonetos,MelendezValdes_sonetos ,4,undirected
+Lista_todoslossonetos,Zapata_odas ,1,undirected
+MelendezValdes_odas ,Anonimo_1,13,undirected
+MelendezValdes_odas ,Anonimo_2,58,undirected
+MelendezValdes_odas ,Cañete_odasyotrascomposiciones 19.39.53,1,undirected
+MelendezValdes_odas ,Capitan_prensa,13,undirected
+MelendezValdes_odas ,Capitan_sonetos,7,undirected
+MelendezValdes_odas ,Forner_romance 19.41.23 19.41.33,9,undirected
+MelendezValdes_odas ,Forner_sonetosyotros,2,undirected
+MelendezValdes_odas ,MelendezValdes_romances,154,undirected
+MelendezValdes_odas ,MelendezValdes_sonetos ,8,undirected
+MelendezValdes_romances,Anonimo_1,11,undirected
+MelendezValdes_romances,Anonimo_2,54,undirected
+MelendezValdes_romances,Cañete_romancesyepistolas 19.39.45,10,undirected
+MelendezValdes_romances,Cañete_todoslossonetos ,1,undirected
+MelendezValdes_romances,Capitan_prensa,2,undirected
+MelendezValdes_romances,Capitan_sonetos,1,undirected
+MelendezValdes_romances,Forner_romance 19.41.23 19.41.33,17,undirected
+MelendezValdes_romances,Forner_sonetosyotros,12,undirected
+MelendezValdes_romances,Lista_epigrameidilios,2,undirected
+MelendezValdes_romances,Lista_romances,21,undirected
+MelendezValdes_romances,Lista_todoslossonetos,17,undirected
+MelendezValdes_romances,MelendezValdes_odas ,154,undirected
+MelendezValdes_romances,MelendezValdes_sonetos ,32,undirected
+MelendezValdes_sonetos ,Anonimo_1,34,undirected
+MelendezValdes_sonetos ,Anonimo_2,66,undirected
+MelendezValdes_sonetos ,Cañete_odasyotrascomposiciones 19.39.53,2,undirected
+MelendezValdes_sonetos ,Capitan_prensa,3,undirected
+MelendezValdes_sonetos ,Forner_romance 19.41.23 19.41.33,3,undirected
+MelendezValdes_sonetos ,Forner_sonetosyotros,3,undirected
+MelendezValdes_sonetos ,Lista_epigrameidilios,7,undirected
+MelendezValdes_sonetos ,Lista_romances,20,undirected
+MelendezValdes_sonetos ,Lista_todoslossonetos,4,undirected
+MelendezValdes_sonetos ,MelendezValdes_odas ,8,undirected
+MelendezValdes_sonetos ,MelendezValdes_romances,32,undirected
+Reinoso_odas,Anonimo_1,14,undirected
+Reinoso_odas,Anonimo_2,52,undirected
+Reinoso_odas,Cañete_odasyotrascomposiciones 19.39.53,24,undirected
+Reinoso_odas,Capitan_sonetos,11,undirected
+Reinoso_odas,Reinoso_romanceyotras,135,undirected
+Reinoso_odas,Zapata_odas ,10,undirected
+Reinoso_romanceyotras,Anonimo_1,13,undirected
+Reinoso_romanceyotras,Anonimo_2,55,undirected
+Reinoso_romanceyotras,Capitan_sonetos,41,undirected
+Reinoso_romanceyotras,Reinoso_odas,135,undirected
+Reinoso_romanceyotras,Zapata_odas ,13,undirected
+Reinoso_romanceyotras,Zapata_todoslossonetos 19.41.09,1,undirected
+Zapata_odas ,Anonimo_1,11,undirected
+Zapata_odas ,Anonimo_2,54,undirected
+Zapata_odas ,Cañete_odasyotrascomposiciones 19.39.53,52,undirected
+Zapata_odas ,Cañete_romancesyepistolas 19.39.45,10,undirected
+Zapata_odas ,Capitan_prensa,21,undirected
+Zapata_odas ,Capitan_sonetos,92,undirected
+Zapata_odas ,Forner_silvayepistola 19.41.39,12,undirected
+Zapata_odas ,Forner_sonetosyotros,3,undirected
+Zapata_odas ,Lista_epigrameidilios,2,undirected
+Zapata_odas ,Lista_todoslossonetos,1,undirected
+Zapata_odas ,Reinoso_odas,10,undirected
+Zapata_odas ,Reinoso_romanceyotras,13,undirected
+Zapata_odas ,Zapata_todoslossonetos 19.41.09,99,undirected
+Zapata_todoslossonetos 19.41.09,Anonimo_1,16,undirected
+Zapata_todoslossonetos 19.41.09,Anonimo_2,55,undirected
+Zapata_todoslossonetos 19.41.09,Cañete_odasyotrascomposiciones 19.39.53,9,undirected
+Zapata_todoslossonetos 19.41.09,Capitan_prensa,3,undirected
+Zapata_todoslossonetos 19.41.09,Capitan_sonetos,49,undirected
+Zapata_todoslossonetos 19.41.09,Reinoso_romanceyotras,1,undirected
+Zapata_todoslossonetos 19.41.09,Zapata_odas ,99,undirected
